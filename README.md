@@ -27,7 +27,7 @@ The client (Accor) wants to get information about hotels that later will be used
 You have the job to do the following:
 
 1. Create funtionality that ingests the API 
-2. Create a class that inherets from the ApiManager class that have class members that can do the following:
+2. Create a class that inherits from the ApiManager class that have class members that can do the following:
 
    - Can handle different languages via the header Accept-language
    - Can only handle the languages "nl", "fr" and "en" and must throw an exception
@@ -35,7 +35,7 @@ You have the job to do the following:
    - Can get a list of hotels from the endppoint 'catalog/v1/inventory/hotels' 
    - Can get information of a specific hotel on 'catalog/v1/inventory/hotels/${id}'
 3. Create proper exception handling
-4. Create code that illustrate the working of the classes
+4. Create an example script that illustrates the working of the classes by instantiating them
 
 ## Assignment 2
 In this assignement you will be integrating the functionality that you've created in assignment 1 into 
