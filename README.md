@@ -1,4 +1,4 @@
-# Incubetat Cloud City - Assignment
+# Incubeta Cloud City - Assignment
 
 This assignment consists of 3 parts. You will be creating code for a small application that can ingest data and 
 output it in a way the customer wants. This assignment will use a real-life use-case that we also needed to solve 
