@@ -10,9 +10,10 @@ for our existing client Accor. However, we simplified the scenario a bit to make
 - Make sure you book enough time for yourself to complete this assignment. Based on our experience maximum 3-4 hours should be enough to deliver a solution.
 - Your solution should be in a private repository. Once you created one please don't forget to invite us, so we can track your progress. 
   - Our accounts: 
-  - https://gitlab.com/S4n3L, 
-  - https://gitlab.com/miguelosana, 
-  - https://gitlab.com/spfennigwerth
+  - https://github.com/S4n3L
+  - https://github.com/miguelosana
+  - https://github.com/baspenny
+  
 - Use commits and commit messages as you would work in our team already. We intend to check your timestamps to know how much time you needed to spend with certain tasks.
 - Please make sure that your application is runnable with a description how to actually achieve this.
 
